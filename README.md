@@ -61,7 +61,7 @@ For the trials and mini-trials as:
 | **Nr** |**Generic Title** |
 |---    |---    |
 |1 | [Austria - High-Resolution Weather model](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-High-Resolution-Weather-model.md)|
-|2 | [Austria - Short-term Environmental/Weather forecast](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria- Short-term-Environmental-Weather-forecast.md)
+|2 | [Austria - Short-term Environmental/Weather forecast](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-Short-term-Environmental-Weather-forecast.md)
 
 | **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
 |---    |---    |---    |---    |---    |---    |
