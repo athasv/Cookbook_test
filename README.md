@@ -31,6 +31,13 @@ If you use this work, please consider citing the following paper:
 }
 ```
 
+### <u>Methods</u>
+
+A list of methodologies can be found below:
+
+| **Method** | **Used in ICARIA** |
+|---    |---    |
+|ANA| No |
 
 
 ### <u>Datasets</u>
