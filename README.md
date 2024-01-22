@@ -5,11 +5,12 @@
 <p align="center">
 <a href="https://www.icaria-project.eu/"><img src="https://www.icaria-project.eu/wp-content/themes/life/img/logo-i.svg" alt="ICARIA"></a>
 </p>
-------------------------------------------------------------------------------
+
 
 ### Resources
 
 **GitHub**: <a href=" link here "target="_blank"> link here </a>
+
 **Documentation**: <a href= link here "target="_blank" link here </a>
 
 
