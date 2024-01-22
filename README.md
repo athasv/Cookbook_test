@@ -58,9 +58,9 @@ For the trials and mini-trials as:
 - `MT`: Mini-Trials
 - `G`: General
 
-| **Source** |**Generic Title** |
+| *Nr** |**Generic Title** |
 |---    |---    |
-|[Austria - High-Resolution Weather model](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-High-Resolution-Weather-model.txt)|
+|1 | [Austria - High-Resolution Weather model](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-High-Resolution-Weather-model.md)|
 
 
 | **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
