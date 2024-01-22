@@ -37,7 +37,7 @@ A list of methodologies can be found below:
 
 | **Method** | **Used in ICARIA** |
 |---    |---    |
-|ANA| No |
+|[ANA](https://github.com/athasv/Cookbook_test/blob/main/ANA.txt)| No |
 
 
 ### <u>Datasets</u>
