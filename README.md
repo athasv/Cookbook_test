@@ -19,7 +19,7 @@
 If you use this work, please consider citing the following paper:
 
 ```bibtex
-@article{montero2023standardized,
+@article{cookbookicaria,
   title={ICARIA: WP1: Deliverable 1.3},
   author={First, Person, C{'e}sar, Miguel, S{"o}chting, Sebastian},
   journal={Zenodo},
