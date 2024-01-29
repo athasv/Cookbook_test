@@ -1,0 +1,3 @@
+| **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
+|---    |---    |---    |---    |---    |---    |
+|[Link](https://data.bris.ac.uk/data/dataset/s5hqmjcdj8yo2ibzi9b4ew3sn)| G |FABDem|FABDEM (Forest And Buildings removed Copernicus DEM) is a global elevation map that removes building and tree height biases from the Copernicus GLO 30 Digital Elevation Model (DEM). The data is available at 1 arc second grid spacing (approximately 30m at the equator) for the globe|[FATHOM](https://www.fathom.global/product/fabdem/)|30m resolution|

@@ -1,0 +1,3 @@
+| **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
+|---    |---    |---    |---    |---    |---    |
+|[Link](https://www.ecad.eu/download/ensembles/download.php)| G |E-OBS gridded dataset|Daily gridded observational dataset for precipitation, temperature and sea level pressure in Europe| |Version 27e published on April 2023 and covers the period 1950-01-01-2022-12-31|

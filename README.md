@@ -88,29 +88,17 @@ For the trials and mini-trials as:
 |26| [Corine Land Cover Datasets and CLC Change layers](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Corine-Land-Cover-Datasets-and-CLC-Change-layers.md)
 |27| [European Soil Data Centre (ESDAC) Global Soil Erosion](https://github.com/athasv/Cookbook_test/blob/main/Datasets/ESDAC.md)
 |28| [EURO-CORDEX simulations](https://github.com/athasv/Cookbook_test/blob/main/Datasets/EURO-CORDEX-simulations.md)
-|29| 
-|30| 
-|31| 
-|32| 
-|33| 
-|34| 
-|35| 
-
-
-| **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
-|---    |---    |---    |---    |---    |---    |
-|[Link](https://data.bris.ac.uk/data/dataset/s5hqmjcdj8yo2ibzi9b4ew3sn)| G |FABDem|FABDEM (Forest And Buildings removed Copernicus DEM) is a global elevation map that removes building and tree height biases from the Copernicus GLO 30 Digital Elevation Model (DEM). The data is available at 1 arc second grid spacing (approximately 30m at the equator) for the globe|[FATHOM](https://www.fathom.global/product/fabdem/)|30m resolution|
-|[Link](https://land.copernicus.eu/imagery-in-situ/eu-dem)| G |EU-Dem|European Digital Elevation Model (EU-DEM), version 1.1. is a digital surface model (DSM) of EEA39 countries representing the first surface as illuminated by the sensors. It is a hybrid product based on SRTM and ASTER GDEM data fused by a weighted averaging approach|  |25m resolution|
-|[Link](https://land.copernicus.eu/imagery-in-situ/eu-hydro)| G |EU-Hydro|EU-Hydro is a dataset for all EEA39 countries providing a photo-interpreted river network, consistent of surface interpretation of water bodies (lakes and wide rivers), and a drainage model (also called Drainage Network), derived from EU-DEM, with catchments and drainage lines and nodes|  | |
-|[Link](https://land.copernicus.eu/local/coastal-zones)| G |Coastal Zones|Coastal Zones datasets covering 100% of the extent for reference years 2012 and 2018 together with the accompanying change mapping| | |
-|[Link](https://land.copernicus.eu/pan-european/GHSL/european-settlement-map)| G |European Settlement Map|The European Settlement Map is a spatial raster dataset that is mapping human settlements in Europe based on SPOT5 and SPOT6 satellite imagery. The European Settlement Map 2016 (also referred as 'EUGHSL2016') represents the percentage of built-up area coverage per spatial unit. The GHSL method uses machine learning techniques in order to understand systematic relations between morphological and textural (pantex) features, extracted from the multispectral and panchromatic (if available) bands, describing the human settlement| | |
-|[Link]("https://www.wsl.ch/en/services-and-products/data-monitoring-and-inventories/chelsa-free-climate-data-at-high-resolution.html)| G |CHELSA – Free climate data at high resolution|High-resolution climate data set for the global land surface area|CHELSA solves the problem of unequal distribution of meteorological stations by mechanistically downscaling a worldwide, constantly updated climate data set from coarse to fine resolution (to approx. 1 km2 grid size). Thus, the model provides worldwide, monthly time series for temperatures and precipitation for the period from 1979 to 2013|[DOI 1]("https://doi.org/10.5194/essd-14-5573-2022), [DOI 2](https://doi.org/10.1038/s41597-021-01084-6), [DOI 3](https://doi.org/10.1038/s41597-020-00587-y) [DOI 4](https://doi.org/10.48364/ISIMIP.836809), [DOI 5](https://doi.org/10.1038/sdata.2017.122), [CHELSA Climate](https://chelsa-climate.org/)|
-|[Link](https://www.medcordex.eu/)| G |Med-Cordex|Med-CORDEX takes advantage of new very high-resolution Regional Climate Models (RCM, up to 10 km) and of new fully coupled Regional Climate  System Models (RCSMs), coupling the various components of the regional  climate.|   |[List of numerical simulations produced within Med-CORDEX available](https://www.medcordex.eu/medcordex.php)|
-|[Link](https://www.ecad.eu/download/ensembles/download.php)| G |E-OBS gridded dataset|Daily gridded observational dataset for precipitation, temperature and sea level pressure in Europe| |Version 27e published on April 2023 and covers the period 1950-01-01-2022-12-31|
-|[Link]("https://wcrp-cmip.org/cmip-phase-6-cmip6/)| G |CMIP Phase 6 (CMIP6). Coupled Model intercomparison Project|Access to statistically downscaled climate datasets based on model output from the Coupled Model Intercomparison Project Phase 6 (CMIP6)|**USED BY FIC & AIT IN ICARIA**|[CMPI6](https://pcmdi.llnl.gov/CMIP6/), [DOI](https://doi.org/10.5194/gmd-9-1937-2016), [ES-DOC](https://search.es-doc.org/?project=cmip6&)|
-|[Link](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview)| G |ECMWF Reanalysis v5 for Land variables (ERA5-Land)|"ERA5 is the fifth generation ECMWF atmospheric reanalysis of the global climate covering the period from January 1950 (currently being extended backwards) to present. ERA5 is produced by the Copernicus Climate Change Service (C3S) at ECMWF. ERA5-Land is a subversion of ERA5, improved for a better representation and estimation of land surface variables, providing hourly estimates of a large number of atmospheric, land and lake (water) climate variables. The data cover the Earth on a 9km (0.1º) grid|**USED BY FIC IN ICARIA**|ERA5-Land includes information about uncertainties for all variables at reduced spatial and temporal resolutions|
-|[Link]()| G |ECMWF Reanalysis v5 (ERA5)|ERA5 is the fifth generation ECMWF atmospheric reanalysis of the global climate covering the period from January 1950 (currently being extended backwards) to present. ERA5 is produced by the Copernicus Climate Change Service (C3S) at ECMWF. ERA5 provides hourly estimates of a large number of atmospheric, land and oceanic climate variables. The data cover the Earth on a 30km (0.25º) grid and resolve the atmosphere using 137 levels from the surface up to a height of 80km|**USED BY FIC IN ICARIA**|ERA5 includes information about uncertainties for all  variables at reduced spatial and temporal resolutions|
-
+|29| [FABDem](https://github.com/athasv/Cookbook_test/blob/main/Datasets/FABDem.md)
+|30| [EU-Dem](https://github.com/athasv/Cookbook_test/blob/main/Datasets/EU-Dem.md)
+|31| [EU-Hydro](https://github.com/athasv/Cookbook_test/blob/main/Datasets/EU-Hydro.md)
+|32| [Coastal Zones](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Coastal-Zones.md)
+|33| [European Settlement Map](https://github.com/athasv/Cookbook_test/blob/main/Datasets/European-Settlement-Map.md)
+|34| [CHELSA](https://github.com/athasv/Cookbook_test/blob/main/Datasets/CHELSA.md)
+|35| [Med-Cordex](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Med-Cordex.md)
+|36| [E-OBS gridded dataset](https://github.com/athasv/Cookbook_test/blob/main/Datasets/E-OBS.md)
+|37| [CMIP Phase 6 (CMIP6)](https://github.com/athasv/Cookbook_test/blob/main/Datasets/CMIP6.md)
+|38| [ECMWF Reanalysis v5 for Land variables (ERA5-Land)](https://github.com/athasv/Cookbook_test/blob/main/Datasets/ERA5-Land.md)
+|39| [ECMWF Reanalysis v5 (ERA5)](https://github.com/athasv/Cookbook_test/blob/main/Datasets/ERA5.md)
 
 
 #### <u>EU-funded related projects</u>

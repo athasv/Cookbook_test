@@ -1,1 +1,3 @@
+| **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
+|---    |---    |---    |---    |---    |---    |
 |[Link](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_projections_in_the_EU#Population_projections)| G |EUROPOP2019 - Population projections|Population projections at regional level for 2019 - 2100| [Population Projections](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_projections_at_regional_level)|For risk, vulnerability and impact assessment scenarios/estimates|
