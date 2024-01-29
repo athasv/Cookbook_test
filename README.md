@@ -9,9 +9,9 @@
 
 ### Resources
 
-**GitHub**: <a href=" link here "target="_blank"> link here </a>
+**GitHub**: https://github.com/athasv/Cookbook_test 
 
-**Documentation**: <a href= link here "target="_blank" link here </a>
+**Documentation**: https://github.com/athasv/Cookbook_test 
 
 
 ### Citation
