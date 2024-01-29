@@ -70,14 +70,13 @@ For the trials and mini-trials as:
 |8| [Austria - SPARTACUS v2.1 Month data](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-SPARTACUS-v2.1-Month-data.md)
 |9| [Austria - WINFORE v2.1](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-WINFORE-v2.1.md)
 |10| [Austria - SNOWGRID Klima v2.1](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-SNOWGRID-Klima-v2.1.md)
-
+|11| [Austria - Measuring stations Monthly data](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-Measuring-stations-Monthly-data.md)
+|12| [Austria - APOLIS short time daily](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-APOLIS-short-time-daily.md)
+|13| [Austria - Climate maps](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-Climate-maps.md)
 
 
 | **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
 |---    |---    |---    |---    |---    |---    |
-|[Link](https://data.hub.geosphere.at/dataset/klima-v1-1m)| SLZ/T |Austria - Measuring stations Monthly data|This dataset contains monthly values of a variety of meteorological or climatological parameters| AIT | |
-|[Link](https://data.hub.geosphere.at/dataset/apolis_short-v1-1d-100m)| SLZ/T |Austria - APOLIS short time daily|Short-term data set of ground-level radiation intensity and sunshine duration on an Austria-wide 100×100 m grid| AIT | |
-|[Link](https://data.hub.geosphere.at/dataset/klimakarten)| SLZ/T |Austria - Climate maps|The climate map dataset contains grid fields to describe the average spatial distribution of important climate variables Austria for the period 1971 to 2000| AIT | |
 |[Link](https://data.hub.geosphere.at/dataset/histalp)| SLZ/T |Austria - HISTALP - Homogenized station data and derived data sets|Homogenized long-term climate time series for the Alpine region in monthly temporal resolution as well as derived grid datasets and regional averages can be found on the website. Homogenized Austrian stations of the HOM-START project are also available in daily resolution| AIT | |
 |[Link](https://ehyd.gv.at/#)| SLZ/T |Austria - Hydrography maps|The maps show where Austria's hydrography observes the most essential components of the hydrological cycle - precipitation, runoff as well as underground water including springs. Selected data sets are downloaded for many years| AIT | |
 |[Link](https://data-synergis.opendata.arcgis.com/)| SLZ/T |Austria - GIS data|Graph Integration Platform (GIP), extracted highways, Intermodal Traffic Reference System Austria - Traffic Network as a Feature Service, Publishing Organization, etc.| AIT | |
