@@ -87,7 +87,7 @@ For the trials and mini-trials as:
 |25| [Free downscaled climate projection layers from Clarity Project](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Free-downscaled-climate-projection-layers-from-Clarity-Project.md)
 |26| [Corine Land Cover Datasets and CLC Change layers](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Corine-Land-Cover-Datasets-and-CLC-Change-layers.md)
 |27| [European Soil Data Centre (ESDAC) Global Soil Erosion](https://github.com/athasv/Cookbook_test/blob/main/Datasets/ESDAC.md)
-|28| [EURO-CORDEX simulations](https://github.com/athasv/Cookbook_test/blob/main/Datasets/EURO-CORDEX-simulations.md)
+|28| 
 |29| 
 |30| 
 |31| 
@@ -99,6 +99,7 @@ For the trials and mini-trials as:
 
 | **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
 |---    |---    |---    |---    |---    |---    |
+|[Link](https://www.euro-cordex.net/060378/index.php.en)| G |EURO-Cordex|EURO-CORDEX is the European branch of the CORDEX initiative and produces ensemble climate simulations based on multiple dynamical and empirical-statistical downscaling models forced by multiple global climate models from the Coupled Model Intercomparison Project Phase 5 (CMIP5) | |EURO-CORDEX simulations focus on grid-sizes of about 12 km (0.11 degree). Periods: - Hindcast (ERA Interim): 1989 – 2008 - Control: 1951 – 2005 (1981 – 2010, 1951-80) - Scenario: 2006 – 2100 (2041-71, 2011-40, 2071-2100)|
 |[Link](https://data.bris.ac.uk/data/dataset/s5hqmjcdj8yo2ibzi9b4ew3sn)| G |FABDem|FABDEM (Forest And Buildings removed Copernicus DEM) is a global elevation map that removes building and tree height biases from the Copernicus GLO 30 Digital Elevation Model (DEM). The data is available at 1 arc second grid spacing (approximately 30m at the equator) for the globe|[FATHOM](https://www.fathom.global/product/fabdem/)|30m resolution|
 |[Link](https://land.copernicus.eu/imagery-in-situ/eu-dem)| G |EU-Dem|European Digital Elevation Model (EU-DEM), version 1.1. is a digital surface model (DSM) of EEA39 countries representing the first surface as illuminated by the sensors. It is a hybrid product based on SRTM and ASTER GDEM data fused by a weighted averaging approach|  |25m resolution|
 |[Link](https://land.copernicus.eu/imagery-in-situ/eu-hydro)| G |EU-Hydro|EU-Hydro is a dataset for all EEA39 countries providing a photo-interpreted river network, consistent of surface interpretation of water bodies (lakes and wide rivers), and a drainage model (also called Drainage Network), derived from EU-DEM, with catchments and drainage lines and nodes|  | |
