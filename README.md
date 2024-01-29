@@ -38,7 +38,7 @@ A list of methodologies can be found below:
 | **Method** | **Used in ICARIA** |
 |---    |---    |
 |[ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/ANA.md)| No |
-
+[GLMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/GLMs.md) | No |
 
 ### <u>Datasets</u>
 In the following table, some related datasets used in ICARIA project will be listed and several datasets for potential use were also included.
