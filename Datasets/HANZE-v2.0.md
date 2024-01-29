@@ -1,0 +1,3 @@
+| **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
+|---    |---    |---    |---    |---    |---    |
+|[Link](https://www.nature.com/articles/s41597-023-02282-0#rightslink)| G |HANZE v2.0|HANZE v2.0 is a dataset of historical exposure generated through operations on a large number of input raster data|[Zenodo](https://zenodo.org/record/6783023) | Exposure |
