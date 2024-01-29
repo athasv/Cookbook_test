@@ -1,0 +1,3 @@
+| **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
+|---    |---    |---    |---    |---    |---    |
+|[Link](https://data.hub.geosphere.at/dataset/histalp)| SLZ/T |Austria - HISTALP - Homogenized station data and derived data sets|Homogenized long-term climate time series for the Alpine region in monthly temporal resolution as well as derived grid datasets and regional averages can be found on the website. Homogenized Austrian stations of the HOM-START project are also available in daily resolution| AIT | |

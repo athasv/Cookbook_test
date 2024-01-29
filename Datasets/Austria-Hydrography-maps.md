@@ -1,0 +1,3 @@
+| **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
+|---    |---    |---    |---    |---    |---    |
+|[Link](https://ehyd.gv.at/#)| SLZ/T |Austria - Hydrography maps|The maps show where Austria's hydrography observes the most essential components of the hydrological cycle - precipitation, runoff as well as underground water including springs. Selected data sets are downloaded for many years| AIT | |
