@@ -51,7 +51,7 @@ The following abbreviations apply for each case study:
 For each partner:
 - `AQUA`: AQUATEC/VEOLIA
 - `AIT`: Austrian Institute of Technology
-- `DMKT`: Demokritos
+- `DMKT`: Demokritos and South Aegean
 
 For the trials and mini-trials as:
 - `T`: Trials
@@ -65,14 +65,16 @@ For the trials and mini-trials as:
 |3| [Geosphere](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Geosphere.md)
 |4| [Geosphere - Short-term forecast](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Geosphere-Short-term-forecast.md)
 |5| [Austria - INCA Hourly Environmental data](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-INCA-Hourly-Environmental-data.md)
+|6| [Austria - SPARTACUS v2.1 Yearly data](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-SPARTACUS-v2.1-Yearly-data.md)
+|7| [Austria - SPARTACUS v2.1 Seasonal data](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-SPARTACUS-v2.1-Seasonal-data.md)
+|8| [Austria - SPARTACUS v2.1 Month data](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-SPARTACUS-v2.1-Month-data.md)
+|9| [Austria - WINFORE v2.1](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-WINFORE-v2.1.md)
+|10| [Austria - SNOWGRID Klima v2.1](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-SNOWGRID-Klima-v2.1.md)
+
+
 
 | **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
 |---    |---    |---    |---    |---    |---    |
-|[Link](https://data.hub.geosphere.at/dataset/spartacus-v2-1y-1km)| SLZ/T |Austria - SPARTACUS v2.1 Yearly data|Gridded data set decribing the spatial distribution of observed air temperature (daily mean temperature (TM)), precipitation (RR) and absolute sunshine duration (SA) from day to day since 1961 in kilometer resolution over Austria| AIT | |
-|[Link](https://data.hub.geosphere.at/dataset/spartacus-v2-1q-1km)| SLZ/T |Austria - SPARTACUS v2.1 Seasonal data|Gridded data set decribing the spatial distribution of observed air temperature (daily mean temperature (TM)), precipitation (RR) and absolute sunshine duration (SA) from day to day since 1961 in kilometer resolution over Austria| AIT | |
-|[Link](https://data.hub.geosphere.at/dataset/spartacus-v2-1m-1km)| SLZ/T |Austria - SPARTACUS v2.1 Month data|Gridded data set decribing the spatial distribution of observed air temperature (daily mean temperature (TM)), precipitation (RR) and absolute sunshine duration (SA) from day to day since 1961 in kilometer resolution over Austria| AIT | |
-|[Link](https://data.hub.geosphere.at/dataset/winfore-v2-1d-1km)| SLZ/T |Austria - WINFORE v2.1|WINFORE is a dataset of potential evapotranspiration (ET0) and standardized precipitation evapotranspiration index (SPEI) values| AIT | |
-|[Link](https://data.hub.geosphere.at/dataset/snowgrid_cl-v2-1d-1km)| SLZ/T |Austria - SNOWGRID Klima v2.1|SNOWGRID-CL (SNOWGRID Climate Version) provides analyses of snow depth, snow water value (SWE) on an Austria-wide 1x1 km grid. The data represent estimated values based on spatially interpolated measured data| AIT | |
 |[Link](https://data.hub.geosphere.at/dataset/klima-v1-1m)| SLZ/T |Austria - Measuring stations Monthly data|This dataset contains monthly values of a variety of meteorological or climatological parameters| AIT | |
 |[Link](https://data.hub.geosphere.at/dataset/apolis_short-v1-1d-100m)| SLZ/T |Austria - APOLIS short time daily|Short-term data set of ground-level radiation intensity and sunshine duration on an Austria-wide 100×100 m grid| AIT | |
 |[Link](https://data.hub.geosphere.at/dataset/klimakarten)| SLZ/T |Austria - Climate maps|The climate map dataset contains grid fields to describe the average spatial distribution of important climate variables Austria for the period 1971 to 2000| AIT | |
