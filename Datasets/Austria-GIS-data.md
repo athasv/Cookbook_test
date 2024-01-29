@@ -1,0 +1,3 @@
+| **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
+|---    |---    |---    |---    |---    |---    |
+|[Link](https://data-synergis.opendata.arcgis.com/)| SLZ/T |Austria - GIS data|Graph Integration Platform (GIP), extracted highways, Intermodal Traffic Reference System Austria - Traffic Network as a Feature Service, Publishing Organization, etc.| AIT | |
