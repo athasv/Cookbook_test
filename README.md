@@ -74,16 +74,13 @@ For the trials and mini-trials as:
 |12| [Austria - APOLIS short time daily](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-APOLIS-short-time-daily.md)
 |13| [Austria - Climate maps](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-Climate-maps.md)
 |14| [Austria - HISTALP](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-HISTALP.md)
-|15| [Austria - Hydrography maps](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-Hydrography-maps.md)
-|16| [Austria - GIS data](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-GIS-data.md)
-|17| [Austria Salzburg Geo Data](https://github.com/athasv/Cookbook_test/blob/main/Datasets/Austria-Salzburg-Geo-Data.md)
-|18| 
-|19| 
-|20| 
+|14| 
 
 
 | **Source** | **T/MT** | **Generic Title** | **Description** | **Relevant Resources** |**Comments** |
 |---    |---    |---    |---    |---    |---    |
+|[Link](https://ehyd.gv.at/#)| SLZ/T |Austria - Hydrography maps|The maps show where Austria's hydrography observes the most essential components of the hydrological cycle - precipitation, runoff as well as underground water including springs. Selected data sets are downloaded for many years| AIT | |
+|[Link](https://data-synergis.opendata.arcgis.com/)| SLZ/T |Austria - GIS data|Graph Integration Platform (GIP), extracted highways, Intermodal Traffic Reference System Austria - Traffic Network as a Feature Service, Publishing Organization, etc.| AIT | |
 |[Link](https://service.salzburg.gv.at/ogd/client/)| SLZ/T |Austria Salzburg Geo Data|Hydrometrical/graphical, meteorological, water-sources, land use| AIT | |
 |[Link](https://www.nature.com/articles/s41597-023-02282-0#rightslink)| G |HANZE v2.0|HANZE v2.0 is a dataset of historical exposure generated through operations on a large number of input raster data|[Zenodo](https://zenodo.org/record/6783023) | Exposure |
 |[Link](https://ghsl.jrc.ec.europa.eu/dataToolsOverview.php#inline-nav-2)| G |GHSL - Global Human Settlement Layer|The GHSL Data Package 2023|[Tool](https://ghsl.jrc.ec.europa.eu/dataToolsOverview.php#inline-nav-3)|For risk, vulnerability and impact assessment scenarios/estimates. Especially for different elements of risk|
