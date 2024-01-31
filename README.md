@@ -139,6 +139,7 @@ For the trials and mini-trials as:
 `[x]`- [RECONECT](https://cordis.europa.eu/project/id/776866): **RECONECT**- **R**egenarating **ECO**systems with **N**ature-based solutions for hydro-meteorological risk r**E**du**CT**ion, [CORDIS Link](https://cordis.europa.eu/project/id/776866).
 
 `[x]`- [RESCCUE](https://toolkit.resccue.eu/): **Res**ilient **c**ities facing climate **c**hange, [CORDIS Link](https://cordis.europa.eu/project/id/700174).
+
 `[-]`- [PLACARD](https://www.placard-network.eu/): **PLA**tform for **C**limate **A**daptation and **R**isk re**D**uction, [CORDIS Link](https://cordis.europa.eu/project/id/653255).
 
 `[x]`- [Snowball](http://snowball.meteoromania.ro/): A prototype snow monitoring system that combines daily satellite data with in-situ weather station observations and state-of-the- art snowpack and climate modelling, [CORDIS Link](https://cordis.europa.eu/project/id/606742).
