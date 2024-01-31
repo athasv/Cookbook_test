@@ -43,11 +43,13 @@ A list of methodologies can be found below:
 [FICLIMA](https://github.com/athasv/Cookbook_test/blob/main/Methods/FICLIMA.md) | Yes by AIT |
 [FRSampler](https://github.com/athasv/Cookbook_test/blob/main/Methods/FRSampler.md) | No |
 [GLMs Statistical downscaling](https://github.com/athasv/Cookbook_test/blob/main/Methods/GLMs.md) | No |
+[LCZ-map](https://github.com/athasv/Cookbook_test/blob/main/Methods/LCZ-map.md) | No |
 [PP-ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-ANA.md) | No |
 [PP-MLR](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-MLR.md) | No |
 [predictWTD](https://github.com/athasv/Cookbook_test/blob/main/Methods/predictWTD.md) | No |
 [Statistical Downscaling CCWWG](https://github.com/athasv/Cookbook_test/blob/main/Methods/Statistical-Downscaling-CCWWG.md) | No |
-
+[Supervised-DL-CNN1-CNN10](https://github.com/athasv/Cookbook_test/blob/main/Methods/Supervised-DL-CNN1-CNN10.md) | No |
+[TPS](https://github.com/athasv/Cookbook_test/blob/main/Methods/TPS.md) | No |
 
 
 ### <u>Datasets</u>
