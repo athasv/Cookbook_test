@@ -39,7 +39,9 @@ A list of methodologies can be found below:
 |---    |---    |
 |[ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/ANA.md)| No |
 [GLMs - Statistical downscaling](https://github.com/athasv/Cookbook_test/blob/main/Methods/GLMs.md) | No |
-[Dynamic Downscaling with RCMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/GLMs.md) | No |
+[Dynamic Downscaling with RCMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dynamic-Downscaling-RCMs.md) | Yes by AIT |
+[Dynamic Downscaling with RCMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-ANA.md) | Yes by AIT |
+[PP-MRL](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-MRL.md) | Yes by AIT |
 
 
 ### <u>Datasets</u>
