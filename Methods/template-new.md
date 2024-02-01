@@ -5,7 +5,8 @@
 <ins>Keywords</ins>: 
 
 <ins>DOI</ins>: 
-<ins>Variables (Input/Output)</ins>: Input: 
+
+<ins>Variables (Input/Output)</ins>: 
 
 <ins>Method Details</ins>: 
 

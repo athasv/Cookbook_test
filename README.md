@@ -9,9 +9,10 @@
 
 ### Resources
 
-**GitHub**: https://github.com/athasv/Cookbook_test 
+**CORDIS**: https://cordis.europa.eu/project/id/101093806 | <ins>Grant agreement ID</ins>: 101093806
 
-**Documentation**: https://github.com/athasv/Cookbook_test 
+
+**GitHub**: https://github.com/athasv/Cookbook_test 
 
 
 ### Citation
@@ -23,10 +24,10 @@ If you use this work, please consider citing the following paper:
   title={ICARIA: WP1: Deliverable 1.3},
   author={First, Person, C{'e}sar, Miguel, S{"o}chting, Sebastian},
   journal={Zenodo},
-  volume={10},
-  number={1},
-  pages={197},
-  year={2024},
+  volume={},
+  number={},
+  pages={},
+  year={},
   publisher={}
 }
 ```
@@ -38,6 +39,7 @@ A list of methodologies can be found below:
 | **Method** | **Used in ICARIA** |
 |---    |---    |
 |[ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/ANA.md)| No |
+|[CADDIES](https://github.com/athasv/Cookbook_test/blob/main/Methods/CADDIES.md)| No |
 |[Dasymetric Mapping Approach](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dasymetric-mapping-approach.md) | No |
 |[DCT-PLS](https://github.com/athasv/Cookbook_test/blob/main/Methods/DCT-PLS.md) | No |
 |[Dynamic Downscaling with RCMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dynamic-Downscaling-RCMs.md) | Yes by AIT |
@@ -45,13 +47,17 @@ A list of methodologies can be found below:
 |[FICLIMA](https://github.com/athasv/Cookbook_test/blob/main/Methods/FICLIMA.md) | Yes by AIT |
 |[FRSampler](https://github.com/athasv/Cookbook_test/blob/main/Methods/FRSampler.md) | No |
 |[GLMs Statistical downscaling](https://github.com/athasv/Cookbook_test/blob/main/Methods/GLMs.md) | No |
+|[HAZUR](https://github.com/athasv/Cookbook_test/blob/main/Methods/HAZUR.md) | No |
 |[LCZ-map](https://github.com/athasv/Cookbook_test/blob/main/Methods/LCZ-map.md) | No |
+|[MIKE](https://github.com/athasv/Cookbook_test/blob/main/Methods/MIKE.md) | No |
+|[missForrest](https://github.com/athasv/Cookbook_test/blob/main/Methods/missForrest.md) | No |
 |[PP-ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-ANA.md) | No |
 |[PP-MLR](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-MLR.md) | No |
 |[predictWTD](https://github.com/athasv/Cookbook_test/blob/main/Methods/predictWTD.md) | No |
 |[R package for daily precipitation](https://github.com/athasv/Cookbook_test/blob/main/Methods/R-package-daily-precipitation.md) | No |
 |[Spatial Interpolation Techniques](https://github.com/athasv/Cookbook_test/blob/main/Methods/Spatial-interpolation-techniques.md) | No |
 |[Statistical Downscaling CCWWG](https://github.com/athasv/Cookbook_test/blob/main/Methods/Statistical-Downscaling-CCWWG.md) | No |
+|[Stochastic generation of weather data](https://github.com/athasv/Cookbook_test/blob/main/Methods/Stochastic-generation-of-weather-data.md) | No |
 |[Supervised Deep Learning with CNN1 and CNN10](https://github.com/athasv/Cookbook_test/blob/main/Methods/Supervised-DL-CNN1-CNN10.md) | No |
 |[TPS](https://github.com/athasv/Cookbook_test/blob/main/Methods/TPS.md) | Yes by FIC |
 |[Weather 1](https://github.com/athasv/Cookbook_test/blob/main/Methods/Weather-1.md) | Yes by FIC |
