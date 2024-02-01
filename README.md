@@ -49,12 +49,13 @@ A list of methodologies can be found below:
 |[PP-ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-ANA.md) | No |
 |[PP-MLR](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-MLR.md) | No |
 |[predictWTD](https://github.com/athasv/Cookbook_test/blob/main/Methods/predictWTD.md) | No |
-|[RESCCUE related](https://github.com/athasv/Cookbook_test/blob/main/Methods/RESCCUE-related.md) | No |
+|[R package for daily precipitation](https://github.com/athasv/Cookbook_test/blob/main/Methods/R-package-daily-precipitation.md) | No |
 |[Spatial Interpolation Techniques](https://github.com/athasv/Cookbook_test/blob/main/Methods/Spatial-interpolation-techniques.md) | No |
 |[Statistical Downscaling CCWWG](https://github.com/athasv/Cookbook_test/blob/main/Methods/Statistical-Downscaling-CCWWG.md) | No |
 |[Supervised Deep Learning with CNN1 and CNN10](https://github.com/athasv/Cookbook_test/blob/main/Methods/Supervised-DL-CNN1-CNN10.md) | No |
-|[TPS](https://github.com/athasv/Cookbook_test/blob/main/Methods/TPS.md) | No |
-
+|[TPS](https://github.com/athasv/Cookbook_test/blob/main/Methods/TPS.md) | Yes by FIC |
+|[Weather 1](https://github.com/athasv/Cookbook_test/blob/main/Methods/Weather-1.md) | Yes by FIC |
+|[Weather 2](https://github.com/athasv/Cookbook_test/blob/main/Methods/Weather-2.md) | Yes by FIC |
 
 ### <u>Datasets</u>
 In the following table, some related datasets used in ICARIA project will be listed and several datasets for potential use were also included.
