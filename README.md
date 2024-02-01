@@ -40,6 +40,7 @@ A list of methodologies can be found below:
 |---    |---    |
 |[ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/ANA.md)| No |
 |[CADDIES](https://github.com/athasv/Cookbook_test/blob/main/Methods/CADDIES.md)| No |
+|[CNN and LSTM](https://github.com/athasv/Cookbook_test/blob/main/Methods/CNN-LSTM.md)| No |
 |[Dasymetric Mapping Approach](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dasymetric-mapping-approach.md) | No |
 |[DCT-PLS](https://github.com/athasv/Cookbook_test/blob/main/Methods/DCT-PLS.md) | No |
 |[Dynamic Downscaling with RCMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dynamic-Downscaling-RCMs.md) | Yes by AIT |
@@ -59,6 +60,7 @@ A list of methodologies can be found below:
 |[Statistical Downscaling CCWWG](https://github.com/athasv/Cookbook_test/blob/main/Methods/Statistical-Downscaling-CCWWG.md) | No |
 |[Stochastic generation of weather data](https://github.com/athasv/Cookbook_test/blob/main/Methods/Stochastic-generation-of-weather-data.md) | No |
 |[Supervised Deep Learning with CNN1 and CNN10](https://github.com/athasv/Cookbook_test/blob/main/Methods/Supervised-DL-CNN1-CNN10.md) | No |
+|[Total Imputation Algorithm](https://github.com/athasv/Cookbook_test/blob/main/Methods/Total-imputation.md) | Yes by FIC |
 |[TPS](https://github.com/athasv/Cookbook_test/blob/main/Methods/TPS.md) | Yes by FIC |
 |[Weather 1](https://github.com/athasv/Cookbook_test/blob/main/Methods/Weather-1.md) | Yes by FIC |
 |[Weather 2](https://github.com/athasv/Cookbook_test/blob/main/Methods/Weather-2.md) | Yes by FIC |
