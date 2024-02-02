@@ -43,8 +43,10 @@ A list of methodologies can be found below:
 |[CNN and LSTM](https://github.com/athasv/Cookbook_test/blob/main/Methods/CNN-LSTM.md)| No |
 |[Dasymetric Mapping Approach](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dasymetric-mapping-approach.md) | No |
 |[DCT-PLS](https://github.com/athasv/Cookbook_test/blob/main/Methods/DCT-PLS.md) | No |
+|[DeepESD](https://github.com/athasv/Cookbook_test/blob/main/Methods/DeepESD.md) | No |
 |[Dynamic Downscaling with RCMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dynamic-Downscaling-RCMs.md) | Yes by AIT |
 |[Dynamic Downscaling with RCMs 2](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dynamic-Downscaling-RCMs_2.md) | No |
+|[Evolution of Arctic SMBs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Evolution-Arctic-SMB.md) | No |
 |[FICLIMA](https://github.com/athasv/Cookbook_test/blob/main/Methods/FICLIMA.md) | Yes by AIT |
 |[FRSampler](https://github.com/athasv/Cookbook_test/blob/main/Methods/FRSampler.md) | No |
 |[GLMs Statistical downscaling](https://github.com/athasv/Cookbook_test/blob/main/Methods/GLMs.md) | No |
@@ -58,10 +60,11 @@ A list of methodologies can be found below:
 |[R package for daily precipitation](https://github.com/athasv/Cookbook_test/blob/main/Methods/R-package-daily-precipitation.md) | No |
 |[Spatial Interpolation Techniques](https://github.com/athasv/Cookbook_test/blob/main/Methods/Spatial-interpolation-techniques.md) | No |
 |[Statistical Downscaling CCWWG](https://github.com/athasv/Cookbook_test/blob/main/Methods/Statistical-Downscaling-CCWWG.md) | No |
-|[Stochastic generation of weather data](https://github.com/athasv/Cookbook_test/blob/main/Methods/Stochastic-generation-of-weather-data.md) | No |
+|[Stochastic Generation of Weather Data](https://github.com/athasv/Cookbook_test/blob/main/Methods/Stochastic-generation-of-weather-data.md) | No |
 |[Supervised Deep Learning with CNN1 and CNN10](https://github.com/athasv/Cookbook_test/blob/main/Methods/Supervised-DL-CNN1-CNN10.md) | No |
 |[Total Imputation Algorithm](https://github.com/athasv/Cookbook_test/blob/main/Methods/Total-imputation.md) | Yes by FIC |
 |[TPS](https://github.com/athasv/Cookbook_test/blob/main/Methods/TPS.md) | Yes by FIC |
+|[Uncertainty in Model Based Environmental Assessment](https://github.com/athasv/Cookbook_test/blob/main/Methods/Uncertainty-in-Model-Based-Environmental-Assessment.md) | Yes by FIC |
 |[Weather 1](https://github.com/athasv/Cookbook_test/blob/main/Methods/Weather-1.md) | Yes by FIC |
 |[Weather 2](https://github.com/athasv/Cookbook_test/blob/main/Methods/Weather-2.md) | Yes by FIC |
 
