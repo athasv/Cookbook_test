@@ -1,8 +1,8 @@
 <ins>Title</ins>: MIKE Powered by DHI, the cutting-edge software solution that revolutionises water modeling and simulation
 
-<ins>Year</ins>: 
+<ins>Year</ins>:
 
-<ins>Keywords</ins>: 
+<ins>Keywords</ins>:
 
 <ins>DOI</ins>: [Link](https://www.mikepoweredbydhi.com/)
 
@@ -20,6 +20,6 @@
 
 <ins>Suggestions \& Relevant resources</ins>: [From hazard to impact: flood damage assessment tools for mega cities](https://link.springer.com/article/10.1007/s11069-016-2223-2)
 
-<ins>Other relevant documents/sources</ins>: 
+<ins>Other relevant documents/sources</ins>:
 
 <ins>Type (Based on GA, p.8)</ins>: Tool/Model

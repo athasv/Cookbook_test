@@ -39,11 +39,13 @@ A list of methodologies can be found below:
 | **Method** | **Used in ICARIA** |
 |---    |---    |
 |[ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/ANA.md)| No |
+|[An Exploration of Interpolation](https://github.com/athasv/Cookbook_test/blob/main/Methods/An-Exploration-of-Interpolation.md) | No |
 |[CADDIES](https://github.com/athasv/Cookbook_test/blob/main/Methods/CADDIES.md)| No |
 |[CNN and LSTM](https://github.com/athasv/Cookbook_test/blob/main/Methods/CNN-LSTM.md)| No |
 |[Dasymetric Mapping Approach](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dasymetric-mapping-approach.md) | No |
 |[DCT-PLS](https://github.com/athasv/Cookbook_test/blob/main/Methods/DCT-PLS.md) | No |
 |[DeepESD](https://github.com/athasv/Cookbook_test/blob/main/Methods/DeepESD.md) | No |
+|[Deep Learning RCM Emulators](https://github.com/athasv/Cookbook_test/blob/main/Methods/Deep-Learning-RCM-Emulators.md) | No |
 |[Dynamic Downscaling with RCMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dynamic-Downscaling-RCMs.md) | Yes by AIT |
 |[Dynamic Downscaling with RCMs 2](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dynamic-Downscaling-RCMs_2.md) | No |
 |[Evolution of Arctic SMBs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Evolution-Arctic-SMB.md) | No |
@@ -54,10 +56,12 @@ A list of methodologies can be found below:
 |[LCZ-map](https://github.com/athasv/Cookbook_test/blob/main/Methods/LCZ-map.md) | No |
 |[MIKE](https://github.com/athasv/Cookbook_test/blob/main/Methods/MIKE.md) | No |
 |[missForrest](https://github.com/athasv/Cookbook_test/blob/main/Methods/missForrest.md) | No |
+|[MSARMS](https://github.com/athasv/Cookbook_test/blob/main/Methods/MSARMS.md) | No |
 |[PP-ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-ANA.md) | No |
 |[PP-MLR](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-MLR.md) | No |
 |[predictWTD](https://github.com/athasv/Cookbook_test/blob/main/Methods/predictWTD.md) | No |
 |[R package for daily precipitation](https://github.com/athasv/Cookbook_test/blob/main/Methods/R-package-daily-precipitation.md) | No |
+|[Self-supervised learning for climate downscaling](https://github.com/athasv/Cookbook_test/blob/main/Methods/Self-supervised-learning-for-climate-downscaling.md) | No |
 |[Spatial Interpolation Techniques](https://github.com/athasv/Cookbook_test/blob/main/Methods/Spatial-interpolation-techniques.md) | No |
 |[Statistical Downscaling CCWWG](https://github.com/athasv/Cookbook_test/blob/main/Methods/Statistical-Downscaling-CCWWG.md) | No |
 |[Stochastic Generation of Weather Data](https://github.com/athasv/Cookbook_test/blob/main/Methods/Stochastic-generation-of-weather-data.md) | No |
