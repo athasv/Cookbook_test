@@ -1,0 +1,62 @@
+<ins>Title</ins>: Comparison of machine learning statistical downscaling and regional climate models for temperature, precipitation, wind speed, humidity and radiation over Europe under present conditions
+
+<ins>Year</ins>: 2023
+
+<ins>Keywords</ins>: EURO-CORDEX; Machine learning; RCMs; Statistical downscaling
+
+<ins>DOI</ins>: [Link](https://doi.org/10.1002/joc.8190)
+
+<ins>Variables (Input/Output)</ins>: 
+
+Datasets
+* Predictors for statistical downscaling
+* Predictants for statistical downscaling and evaluation
+* Outputs of RCMs (dynamical and statistical)
+
+Variables
+* temperature
+* precipitation
+* wind
+* humidity
+* solar radiation under present climatic conditions
+
+<ins>Method Details</ins>: Benchmark article
+
+* Statistical downscaling
+	- eXtreme Boost (based on decision trees)
+		+ good performance
+		+ low computational demands
+		+ capability to combine predictors of different nature
+* Bias correction
+	- Quantile delta mapping (QDM)
+		+ estimates the corrected series by applying a delta change
+		+ simplicity
+		+ good performance
+		+ based on the "inflation" approach
+
+<ins>Models</ins>:
+
+* Extreme-related and spell-related indexes
+	- different marginal, temporal, spatial and intervariable metrics
+	- Extreme-related and spell-related indexes (Table 3 within the paper)
+
+<ins>General Comments</ins>: 
+
+* Evaluated aspects
+	- daily series
+	- mean values
+	- spatial correlations
+	- extremes
+	- spells
+	- FWI (computed from temperature, precipitation, wind speed and relative humidity)
+* Statistical downscaling should be considered at the same level as RCMs for many purposes
+
+<ins>Tag</ins>: Downscaling; ML; Benchmark
+
+<ins>Relevant Projects</ins>: PRUDENCE 2001-2004, ENSEMBLES 2004-2009
+
+<ins>Suggestions \& Relevant resources</ins>: [ E-OBS gridded observational dataset and the CORDEX regional climate models](https://cds.climate.copernicus.eu/), [RA-Interim reanalysis](https://apps.ecmwf.int/datasets/data/interim-full-daily/levtype=sfc/), [Statistical downscaling package pyClim-SDM repository](https://github.com/ahernanzl/pyClim-SDM/)
+
+<ins>Other relevant documents/sources</ins>: [Intergovernmental Panel on Climate Change Interactive Atlas](https://interactive-atlas.ipcc.ch/), [Earth System Grid Federation](https://esgf.llnl.gov/), [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/)
+
+<ins>Type (Based on GA, p.8)</ins>: Statistical downscaling method; Data-driven methods

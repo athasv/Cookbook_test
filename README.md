@@ -41,7 +41,8 @@ A list of methodologies can be found below:
 |[ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/ANA.md)| No |
 |[An Exploration of Interpolation](https://github.com/athasv/Cookbook_test/blob/main/Methods/An-Exploration-of-Interpolation.md) | No |
 |[CADDIES](https://github.com/athasv/Cookbook_test/blob/main/Methods/CADDIES.md)| No |
-|[CNN and LSTM](https://github.com/athasv/Cookbook_test/blob/main/Methods/CNN-LSTM.md)| No |
+|[CNN and LSTM](https://github.com/athasv/Cookbook_test/blob/main/Methods/Comparison-of-machine-learning-statistical-downscaling-and-regional-climate-models.md)| No |
+|[Comparison of machine learning statistical downscaling and regional climate models](https://github.com/athasv/Cookbook_test/blob/main/Methods/CNN-LSTM.md)| No |
 |[Dasymetric Mapping Approach](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dasymetric-mapping-approach.md) | No |
 |[DCT-PLS](https://github.com/athasv/Cookbook_test/blob/main/Methods/DCT-PLS.md) | No |
 |[DeepESD](https://github.com/athasv/Cookbook_test/blob/main/Methods/DeepESD.md) | No |
@@ -60,6 +61,7 @@ A list of methodologies can be found below:
 |[PP-ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-ANA.md) | No |
 |[PP-MLR](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-MLR.md) | No |
 |[predictWTD](https://github.com/athasv/Cookbook_test/blob/main/Methods/predictWTD.md) | No |
+|[Regional climate model emulator based on deep learning](https://github.com/athasv/Cookbook_test/blob/main/Methods/Regional-climate-model-emulator-based-on-deep-learning.md) | No |
 |[R package for daily precipitation](https://github.com/athasv/Cookbook_test/blob/main/Methods/R-package-daily-precipitation.md) | No |
 |[Self-supervised learning for climate downscaling](https://github.com/athasv/Cookbook_test/blob/main/Methods/Self-supervised-learning-for-climate-downscaling.md) | No |
 |[Spatial Interpolation Techniques](https://github.com/athasv/Cookbook_test/blob/main/Methods/Spatial-interpolation-techniques.md) | No |
