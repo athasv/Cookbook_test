@@ -11,6 +11,7 @@
 * Daily near-surface temperature from EUR11-CORDEX simulations based on the CNRM-ALADIN63 regional climate model driven by the CNRM-CM5 global climate model used in CMIP5
 * Historical period runs from 1951-2005
 * Scenarios (2006-2100) are based on RCP4.5 and RCP8.5
+* 2D: Geopotential, Humidity, Temperature, Ward wind, Sea level pressure | 1D: Digital spatial means of 2D, Daily spatial standard deviation of 2D, solar and ozone forces, seasonal indicators
 
 <ins>Method Details</ins>: 
 
@@ -21,6 +22,7 @@
 	* Issues reproducing the complete climate change magnitude
 * "The general functioning of a RCM can be broken down into a large scale transformation and a downscaling function"
 * A novel hybrid downscaling approach that emulates the downscaling function of a RCM
+* "Combining the strengths of both empirical statistical downscaling methods and RCMs"
 
 <ins>Models</ins>:
 

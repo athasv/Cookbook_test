@@ -55,6 +55,7 @@ A list of methodologies can be found below:
 |[GLMs Statistical downscaling](https://github.com/athasv/Cookbook_test/blob/main/Methods/GLMs.md) | No |
 |[HAZUR](https://github.com/athasv/Cookbook_test/blob/main/Methods/HAZUR.md) | No |
 |[LCZ-map](https://github.com/athasv/Cookbook_test/blob/main/Methods/LCZ-map.md) | No |
+|[Hybrid statistical–dynamical downscaling method for emulating RCMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Hybrid-statistical–dynamical-downscaling-method-for-emulating-RCMs.md) | No |
 |[MIKE](https://github.com/athasv/Cookbook_test/blob/main/Methods/MIKE.md) | No |
 |[missForrest](https://github.com/athasv/Cookbook_test/blob/main/Methods/missForrest.md) | No |
 |[MSARMS](https://github.com/athasv/Cookbook_test/blob/main/Methods/MSARMS.md) | No |
