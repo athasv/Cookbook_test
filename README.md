@@ -38,6 +38,7 @@ A list of methodologies can be found below:
 
 | **Method** | **Used in ICARIA** |
 |---    |---    |
+|[Data filling time series with CNNs and LSTMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/A-data-filling-methodology-for-time-series-CNNs-LSTMs.md)| No |
 |[ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/ANA.md)| No |
 |[An Exploration of Interpolation](https://github.com/athasv/Cookbook_test/blob/main/Methods/An-Exploration-of-Interpolation.md) | No |
 |[CADDIES](https://github.com/athasv/Cookbook_test/blob/main/Methods/CADDIES.md)| No |
@@ -47,6 +48,7 @@ A list of methodologies can be found below:
 |[DCT-PLS](https://github.com/athasv/Cookbook_test/blob/main/Methods/DCT-PLS.md) | No |
 |[DeepESD](https://github.com/athasv/Cookbook_test/blob/main/Methods/DeepESD.md) | No |
 |[Deep Learning RCM Emulators](https://github.com/athasv/Cookbook_test/blob/main/Methods/Deep-Learning-RCM-Emulators.md) | No |
+|[High resolution downscaling with DL: Rainfall extremes](https://github.com/athasv/Cookbook_test/blob/main/Methods/Downscaling-with-DL-Rainfall-extremes.md) | No |
 |[Dynamic Downscaling with RCMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dynamic-Downscaling-RCMs.md) | Yes by AIT |
 |[Dynamic Downscaling with RCMs 2](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dynamic-Downscaling-RCMs_2.md) | No |
 |[Evolution of Arctic SMBs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Evolution-Arctic-SMB.md) | No |
@@ -58,6 +60,7 @@ A list of methodologies can be found below:
 |[Hybrid statistical–dynamical downscaling method for emulating RCMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Hybrid-statistical–dynamical-downscaling-method-for-emulating-RCMs.md) | No |
 |[MIKE](https://github.com/athasv/Cookbook_test/blob/main/Methods/MIKE.md) | No |
 |[missForrest](https://github.com/athasv/Cookbook_test/blob/main/Methods/missForrest.md) | No |
+|[ML for weather and climate extremes](https://github.com/athasv/Cookbook_test/blob/main/Methods/ML-for-weather-and-climate-extremes.md) | No |
 |[MSARMS](https://github.com/athasv/Cookbook_test/blob/main/Methods/MSARMS.md) | No |
 |[PP-ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-ANA.md) | No |
 |[PP-MLR](https://github.com/athasv/Cookbook_test/blob/main/Methods/PP-MLR.md) | No |
