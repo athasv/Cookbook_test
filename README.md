@@ -68,7 +68,7 @@ A list of methodologies can be found below:
 |[Supervised Deep Learning with CNN1 and CNN10](https://github.com/athasv/Cookbook_test/blob/main/Methods/Supervised-DL-CNN1-CNN10.md) | No |
 |[Total Imputation Algorithm](https://github.com/athasv/Cookbook_test/blob/main/Methods/Total-imputation.md) | Yes by FIC |
 |[TPS](https://github.com/athasv/Cookbook_test/blob/main/Methods/TPS.md) | Yes by FIC |
-|[Uncertainty in Model Based Environmental Assessment](https://github.com/athasv/Cookbook_test/blob/main/Methods/Uncertainty-in-Model-Based-Environmental-Assessment.md) | Yes by FIC |
+|[Uncertainty in Model Based Environmental Assessment](https://github.com/athasv/Cookbook_test/blob/main/Methods/Uncertainty-in-Model-Based-Environmental-Assessment.md) | No|
 |[Weather 1](https://github.com/athasv/Cookbook_test/blob/main/Methods/Weather-1.md) | Yes by FIC |
 |[Weather 2](https://github.com/athasv/Cookbook_test/blob/main/Methods/Weather-2.md) | Yes by FIC |
 
