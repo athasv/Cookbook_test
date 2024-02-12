@@ -38,7 +38,7 @@ A list of methodologies can be found below:
 
 | **Method** | **Used in ICARIA** |
 |---    |---    |
-|[Data filling time series with CNNs and LSTMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/A-data-filling-methodology-for-time-series-CNNs-LSTMs.md)| No |
+|[A data filling time series with CNNs and LSTMs methodology](https://github.com/athasv/Cookbook_test/blob/main/Methods/A-data-filling-methodology-for-time-series-CNNs-LSTMs.md)| No |
 |[ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/ANA.md)| No |
 |[An Exploration of Interpolation](https://github.com/athasv/Cookbook_test/blob/main/Methods/An-Exploration-of-Interpolation.md) | No |
 |[CADDIES](https://github.com/athasv/Cookbook_test/blob/main/Methods/CADDIES.md)| No |
