@@ -45,6 +45,7 @@ A list of methodologies can be found below:
 |[CNN and LSTM](https://github.com/athasv/Cookbook_test/blob/main/Methods/Comparison-of-machine-learning-statistical-downscaling-and-regional-climate-models.md)| No |
 |[Comparison of machine learning statistical downscaling and regional climate models](https://github.com/athasv/Cookbook_test/blob/main/Methods/CNN-LSTM.md)| No |
 |[Dasymetric Mapping Approach](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dasymetric-mapping-approach.md) | No |
+|[Data quality and uncertainty](https://github.com/athasv/Cookbook_test/blob/main/Methods/Data-quality-and-uncertainty.md) | No |
 |[DCT-PLS](https://github.com/athasv/Cookbook_test/blob/main/Methods/DCT-PLS.md) | No |
 |[DeepESD](https://github.com/athasv/Cookbook_test/blob/main/Methods/DeepESD.md) | No |
 |[Deep Learning RCM Emulators](https://github.com/athasv/Cookbook_test/blob/main/Methods/Deep-Learning-RCM-Emulators.md) | No |
@@ -52,6 +53,7 @@ A list of methodologies can be found below:
 |[Dynamic Downscaling with RCMs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dynamic-Downscaling-RCMs.md) | Yes by AIT |
 |[Dynamic Downscaling with RCMs 2](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dynamic-Downscaling-RCMs_2.md) | No |
 |[Evolution of Arctic SMBs](https://github.com/athasv/Cookbook_test/blob/main/Methods/Evolution-Arctic-SMB.md) | No |
+|[Using expert elicitation to strengthen regional climate services](https://github.com/athasv/Cookbook_test/blob/main/Methods/Expert-elicitation-region-climate-services.md) | No |
 |[FICLIMA](https://github.com/athasv/Cookbook_test/blob/main/Methods/FICLIMA.md) | Yes by AIT |
 |[FRSampler](https://github.com/athasv/Cookbook_test/blob/main/Methods/FRSampler.md) | No |
 |[GLMs Statistical downscaling](https://github.com/athasv/Cookbook_test/blob/main/Methods/GLMs.md) | No |
