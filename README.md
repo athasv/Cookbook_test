@@ -189,5 +189,5 @@ You can download or clone the repository
 Researchers that have published (or aim to publish) results and would like to add their work in this repository should feel welcome to update the list and highlight their work (either as a part of an EU project or otherwise). If DOIs are available that would be very helpful.
 </div>
 
-##### <u>Credits</u>: [A.Arvanitidis](https://github.com/athasv) working at [M4DLab](https://m4d.iti.gr/) and [CERTH-ITI](https://www.iti.gr/iti/en/home/).
+##### <u>Credits</u>: [M4DLab](https://m4d.iti.gr/) and [CERTH-ITI](https://www.iti.gr/iti/en/home/).
 
