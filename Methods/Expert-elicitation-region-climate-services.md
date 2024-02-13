@@ -43,7 +43,7 @@ In particular:
 * "SEE used alongside modeling approaches, can contribute to a richer understanding of regional climate knowledge for use in climate services"
 * "Elicitation methods should be considered within the ‘toolbox’ of approaches available to climate service providers"
 
-<ins>Tag</ins>: 
+<ins>Tag</ins>: Uncertainty;
 
 <ins>Relevant Projects</ins>: 
 
@@ -51,4 +51,4 @@ In particular:
 
 <ins>Other relevant documents/sources</ins>: 
 
-<ins>Type (Based on GA, p.8)</ins>: 
+<ins>Type (Based on GA, p.8)</ins>: Uncertainty-related paper

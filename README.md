@@ -42,6 +42,7 @@ A list of methodologies can be found below:
 |[ANA](https://github.com/athasv/Cookbook_test/blob/main/Methods/ANA.md)| No |
 |[An Exploration of Interpolation](https://github.com/athasv/Cookbook_test/blob/main/Methods/An-Exploration-of-Interpolation.md) | No |
 |[CADDIES](https://github.com/athasv/Cookbook_test/blob/main/Methods/CADDIES.md)| No |
+|[Certain Uncertainty](https://github.com/athasv/Cookbook_test/blob/main/Methods/Certain-uncertainty.md)| No |
 |[CNN and LSTM](https://github.com/athasv/Cookbook_test/blob/main/Methods/Comparison-of-machine-learning-statistical-downscaling-and-regional-climate-models.md)| No |
 |[Comparison of machine learning statistical downscaling and regional climate models](https://github.com/athasv/Cookbook_test/blob/main/Methods/CNN-LSTM.md)| No |
 |[Dasymetric Mapping Approach](https://github.com/athasv/Cookbook_test/blob/main/Methods/Dasymetric-mapping-approach.md) | No |
@@ -76,7 +77,9 @@ A list of methodologies can be found below:
 |[Supervised Deep Learning with CNN1 and CNN10](https://github.com/athasv/Cookbook_test/blob/main/Methods/Supervised-DL-CNN1-CNN10.md) | No |
 |[Total Imputation Algorithm](https://github.com/athasv/Cookbook_test/blob/main/Methods/Total-imputation.md) | Yes by FIC |
 |[TPS](https://github.com/athasv/Cookbook_test/blob/main/Methods/TPS.md) | Yes by FIC |
+|[Uncertainty quantification in deep learning](https://github.com/athasv/Cookbook_test/blob/main/Methods/Uncertainty-deep-learning.md) | No |
 |[Uncertainty in Model Based Environmental Assessment](https://github.com/athasv/Cookbook_test/blob/main/Methods/Uncertainty-in-Model-Based-Environmental-Assessment.md) | No|
+|[Scientific Uncertainty - Mapping natural hazards science](https://github.com/athasv/Cookbook_test/blob/main/Methods/Uncertainty-natural-hazards.md) | No |
 |[Weather 1](https://github.com/athasv/Cookbook_test/blob/main/Methods/Weather-1.md) | Yes by FIC |
 |[Weather 2](https://github.com/athasv/Cookbook_test/blob/main/Methods/Weather-2.md) | Yes by FIC |
 
